@@ -36,7 +36,7 @@ package com.xiayiye.yhshmvp.view
  * 博客地址：http://blog.csdn.net/xiayiye5
  * 项目名称：yhshmvp
  * 文件包名：com.xiayiye.yhshmvp
- * 文件说明：
+ * 文件说明：MVP框架 V 层
  */
 interface BaseView {
     //设置数据的方法

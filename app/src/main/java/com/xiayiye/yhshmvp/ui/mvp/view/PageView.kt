@@ -41,5 +41,5 @@ import com.xiayiye.yhshmvp.view.BaseView
  * 文件说明：
  */
 interface PageView : BaseView {
-    fun getBaseView() = this
+
 }

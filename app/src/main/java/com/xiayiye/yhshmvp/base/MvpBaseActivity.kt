@@ -41,7 +41,7 @@ import com.xiayiye.yhshmvp.view.BaseView
  * 博客地址：http://blog.csdn.net/xiayiye5
  * 项目名称：yhshmvp
  * 文件包名：com.xiayiye.yhshmvp.base
- * 文件说明：
+ * 文件说明：所有Activity的基类
  */
 abstract class MvpBaseActivity<V, P : BasePresenter<V>> : AppCompatActivity(), BaseView {
     private var mPresenter: P? = null

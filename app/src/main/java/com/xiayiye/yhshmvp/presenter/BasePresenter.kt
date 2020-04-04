@@ -36,7 +36,7 @@ package com.xiayiye.yhshmvp.presenter
  * 博客地址：http://blog.csdn.net/xiayiye5
  * 项目名称：yhshmvp
  * 文件包名：com.xiayiye.yhshmvp
- * 文件说明：
+ * 文件说明：MVP框架P 层基类
  */
 open class BasePresenter<V> {
     private var mBaseView: V? = null

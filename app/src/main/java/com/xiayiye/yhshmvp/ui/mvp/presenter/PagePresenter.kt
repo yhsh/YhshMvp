@@ -43,6 +43,6 @@ import com.xiayiye.yhshmvp.ui.mvp.view.PageView
  */
 class PagePresenter : BasePresenter<PageView>() {
     fun showData(msg: String) {
-        getBaseView()?.getBaseView()?.setData(msg);
+        getBaseView()?.setData(msg)
     }
 }
