@@ -49,6 +49,9 @@ import com.xiayiye.yhshmvp.R
  * 文件说明：MVP框架首页
  */
 class MvpPageActivity : MvpBaseActivity<PageView, PagePresenter>(), PageView {
+    /**
+     * 使用静态方法跳转Activity
+     */
     companion object {
         fun start(context: Context) {
             val intent = Intent(context, MvpPageActivity::class.java)
