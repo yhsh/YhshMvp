@@ -39,7 +39,7 @@ import com.xiayiye.yhshmvp.ui.mvp.view.PageView
  * 博客地址：http://blog.csdn.net/xiayiye5
  * 项目名称：yhshmvp
  * 文件包名：com.xiayiye.yhshmvp.ui.mvp.presenter
- * 文件说明：
+ * 文件说明：创建远程分支命名要合理
  */
 class PagePresenter : BasePresenter<PageView>() {
     fun showData(msg: String) {
