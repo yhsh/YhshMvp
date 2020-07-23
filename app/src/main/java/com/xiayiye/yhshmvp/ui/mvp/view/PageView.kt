@@ -38,7 +38,7 @@ import com.xiayiye.yhshmvp.view.BaseView
  * 博客地址：http://blog.csdn.net/xiayiye5
  * 项目名称：yhshmvp
  * 文件包名：com.xiayiye.yhshmvp.ui.mvp.view
- * 文件说明：
+ * 文件说明：非常简单的模板
  */
 interface PageView : BaseView {
 
